@@ -1,0 +1,14 @@
+/*THIS is a std. css file to link other .css to endermo.xyz*/
+/*by endermo，enderstudio，vertexlab develop ，creat in 2019*/
+/*ALL FILE IN ENDERMO_MAIN FLODER*/
+<link href="https://endermo.xyz/css/ENDERMO_MAIN/Demo.css" rel="stylesheet" type="text/css">
+<script src="https://endermo.xyz/css/ENDERMO_MAIN/Demo.js"></script>
+/*Demo STD. ADDED*/
+<link href="https://endermo.xyz/css/ENDERMO_MAIN/jBo x.all.css" rel="stylesheet" type="text/css">
+<script src="https://endermo.xyz/css/ENDERMO_MAIN/jBox.all.js"></script>
+/*ADDED JBOX.ALL.IT IS VERY important  FOR THE border */
+<script src="https://endermo.xyz/css/ENDERMO_MAIN/jquery-1.11.0.min.js"></script>
+/*include the main*/
+<link href="https://endermo.xyz/css/ENDERMO_MAIN/normalize.css" rel="stylesheet" type="text/css">
+<link href="https://endermo.xyz/css/ENDERMO_MAIN/reset.css" rel="stylesheet" type="text/css">
+/*end*/
